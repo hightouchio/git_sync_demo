@@ -2,7 +2,7 @@ name: genres
 source: jaffle
 type: table
 dbtModel: null
-rawSql: null
+rawSql: ''
 tableName: public.genres
 isSchema: null
 primaryKey: genre_id

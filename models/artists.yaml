@@ -1,8 +1,0 @@
-name: artists
-source: jaffle
-type: raw_sql
-dbtModel: null
-rawSql: select * from artists
-tableName: ''
-isSchema: false
-primaryKey: artist_id

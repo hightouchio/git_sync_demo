@@ -1,0 +1,8 @@
+name: genres
+source: jaffle
+type: table
+dbtModel: null
+rawSql: ''
+tableName: public.genres
+isSchema: false
+primaryKey: genre_id

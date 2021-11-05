@@ -4,5 +4,5 @@ type: table
 dbtModel: null
 rawSql: ''
 tableName: public.genres
-isSchema: null
+isSchema: false
 primaryKey: genre_id

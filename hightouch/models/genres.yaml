@@ -3,6 +3,6 @@ source: jaffle
 type: table
 dbtModel: null
 rawSql: ''
-tableName: public.genres
+tableName: public.artists
 isSchema: false
 primaryKey: genre_id

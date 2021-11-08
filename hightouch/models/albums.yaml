@@ -1,8 +1,0 @@
-name: albums
-source: jaffle
-type: raw_sql
-dbtModel: null
-rawSql: select * from albums
-tableName: null
-isSchema: false
-primaryKey: album_id

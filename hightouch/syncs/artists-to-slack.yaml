@@ -2,7 +2,7 @@ model: artists
 destination: pedramsslack-54791
 config:
   format: table
-  channel: C01NNMS72EB
+  channel: C02JUGNM5AM
 schedule:
   type: interval
   schedule:

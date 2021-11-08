@@ -2,7 +2,7 @@ name: artists
 source: jaffle
 type: raw_sql
 dbtModel: null
-rawSql: select * from artists
+rawSql: select * from artists limit 10
 tableName: ''
 isSchema: false
 primaryKey: artist_id

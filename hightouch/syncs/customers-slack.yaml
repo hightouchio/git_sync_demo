@@ -1,4 +1,4 @@
-model: customers
+model: orders
 destination: pedramsslack-54791
 config:
   format: message

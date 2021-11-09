@@ -1,0 +1,8 @@
+name: orders
+source: jaffle
+type: raw_sql
+dbtModel: null
+rawSql: select * from orders
+tableName: ''
+isSchema: false
+primaryKey: order_id

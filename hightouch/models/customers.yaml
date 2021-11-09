@@ -1,8 +1,0 @@
-name: customers
-source: jaffle
-type: raw_sql
-dbtModel: null
-rawSql: select * from customers where customer_id != 1
-tableName: ''
-isSchema: false
-primaryKey: customer_id

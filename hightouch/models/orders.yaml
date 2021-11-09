@@ -2,7 +2,7 @@ name: orders
 source: jaffle
 type: raw_sql
 dbtModel: null
-rawSql: select * from orders
+rawSql: select * from orders where order_id != 1
 tableName: ''
 isSchema: false
 primaryKey: order_id

@@ -1,0 +1,10 @@
+model: customers
+destination: pedramsslack-54791
+config:
+  format: message
+  channel: C01NNMS72EB
+  addedBody: |
+    New Customer with {{ customer_id }} 
+schedule:
+  type: manual
+schedulePaused: false

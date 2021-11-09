@@ -1,0 +1,8 @@
+name: customers
+source: jaffle
+type: raw_sql
+dbtModel: null
+rawSql: select * from customers
+tableName: ''
+isSchema: false
+primaryKey: customer_id

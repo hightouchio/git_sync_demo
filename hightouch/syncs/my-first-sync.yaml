@@ -1,0 +1,13 @@
+model: customers
+destination: pedramsslack-54791
+config:
+  format: message
+  channel: C01NNMS72EB
+  addedBody: New customer with {{ customer_id }} joined
+schedule:
+  type: interval
+  schedule:
+    interval:
+      unit: hour
+      quantity: 1
+schedulePaused: false

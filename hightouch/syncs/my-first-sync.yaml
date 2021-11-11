@@ -10,4 +10,4 @@ schedule:
     interval:
       unit: hour
       quantity: 1
-schedulePaused: true
+schedulePaused: false

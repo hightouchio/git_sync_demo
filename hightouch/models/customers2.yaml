@@ -1,0 +1,8 @@
+name: customers2
+source: jaffle
+type: dbt_model
+dbtModel: model.jaffle_shop.customers
+rawSql: ''
+tableName: ''
+isSchema: false
+primaryKey: customer_id

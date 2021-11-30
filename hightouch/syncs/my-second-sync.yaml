@@ -3,11 +3,11 @@ destination: pedramsslack-54791
 config:
   format: message
   channel: C01NNMS72EB
-  addedBody: New customer with {{ customer_id }} joined so quickly!
+  addedBody: New person with {{ customer_id }} joined just now wow! so cool. 
 schedule:
   type: interval
   schedule:
     interval:
       unit: minute
-      quantity: 1
+      quantity: 10
 schedulePaused: false

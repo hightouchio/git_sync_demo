@@ -1,0 +1,8 @@
+name: orders
+source: jaffle
+type: dbt_model
+dbtModel: model.jaffle_shop.orders
+rawSql: ''
+tableName: ''
+isSchema: false
+primaryKey: order_id

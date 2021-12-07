@@ -2,8 +2,10 @@ model: customers
 destination: pedramsslack-54791
 config:
   format: message
-  channel: C01NNMS72EB
-  addedBody: New person with {{ customer_id }} joined just now wow! so cool. 
+  channel: C02JUGNM5AM
+  username: fsfsdfds
+  addedBody: 'New person with {{ customer_id }} joined just now wow! so cool. amazing!!!! '
+  removedBody: bfdgfgdgdfgfgdgfd
 schedule:
   type: interval
   schedule:
